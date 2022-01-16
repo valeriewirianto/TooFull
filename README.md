@@ -1,5 +1,7 @@
-# team50
-Please note we were granted a two day extension after the original deadline. Under our group's cirsumstances, the majority of phase 2 was programmed by 2 active group members. Mark said the marking team would take this into account and acknowledge we may have less features in our phase 2 submission. We implemented as many features as we could which will be described below. 
+# team50: TooFull
+Responsive web app written in ReactJS, Node with Express, and MongoDB that allows users to create lists of their favorite food based on category(dish, beverage, or ingredient), search for other existing lists to discover new food items, view top three most popular food items sorted by category, update your user profile and add and remove friends.
+
+This project was the final group project of CSC309 at the University of Toronto, programmed by Valerie Wirianto, Lyanna Deng, and Max Jin. Project finished in December 2021.
 
 ## URL of deployed app
 https://damp-tundra-15138.herokuapp.com/
@@ -44,9 +46,6 @@ If you wish to log in as an admin, use credentials:
 ###### Update User List: Deleting existing users
 In addition to all the functionalities of a regular user, an admin has an additional Update User List button in their navigation bar. They will be taken to a page with all users' usernames and can delete users if their wish. They can also view each user's profile page by clicking on their username.
 
-
-## Edits to Features
-Due to lack of time and availability of two group members for phase 2, the posting on a user's profile functionality is not complete and only the frontend is functional. In addition, admins are unable to create new categories(dish, beverage, ingredient for example) for the app. 
 
 ## Third party libraries
 Cite for the package react-html-parser used: 1. React-HTML-parser. npm. (n.d.). Retrieved November 7, 2021, from https://www.npmjs.com/package/react-html-parser.
