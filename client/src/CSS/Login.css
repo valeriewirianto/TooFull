@@ -1,0 +1,67 @@
+.backgroundColor{
+   background-color: rgb(196,220,170);
+  min-height: 100vh;
+}
+
+.page{
+   background-image:url('../Resources/foodplate.jpg');
+
+   position: relative;
+   width: 996px;
+   height: 695px;
+   margin: auto;
+}
+
+.panel{
+   position: relative;
+   padding-top: 280px;
+   padding-left: 455px;
+   height: 30%;
+   width: 20%;
+   border: transparent;
+}
+
+.logInForm{
+   position: relative;
+   height: 100%;
+   margin: 5px;
+}
+
+.input{
+   border-color: darkgrey;
+   border-style: solid;
+   border-radius: 8px;
+   margin-bottom: 10px;   
+   height: 20px;
+   width: 70%;
+}
+
+.back{
+   position: absolute;
+   top: 550px;
+}
+
+.backLogInButtons{
+   border: 0px;
+   padding: 0%;
+   background-color: transparent;
+   border-color: transparent;
+   color: cornflowerblue;
+   font-weight: bold;
+}
+
+.backLogIn{
+   margin-top: 25px;
+}
+
+.submitButton{
+   position: absolute;
+   bottom: 30px;
+   left: 498px;
+   background-color: aquamarine;
+   border-color: transparent;
+}
+
+* {
+   overflow: visible;
+}

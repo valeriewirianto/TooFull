@@ -1,0 +1,292 @@
+
+.back{
+    display: block;
+
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+
+li{
+    text-align: left;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#HeaderIndividualList{
+    text-align: left;
+}
+
+.line hr{
+    position: fixed;
+    top:500px;
+}
+
+#SENDBUTTON{
+    position: relative;
+    left: 60px;
+    background: greenyellow;
+    font-size: 105%;
+}
+
+#AddNewItem{
+    font-size: 110%;
+    background: #fddab0;
+}
+#DeleteWholeList{
+    font-size: 110%;
+    background: #ffdde3;
+}
+
+#EditDescription{
+    font-size: 110%;
+   background: greenyellow;
+}
+#ListDescription{
+    overflow: scroll;
+    height: 400px;
+    top: 300px;
+    left: 950px;
+    width: 400px;
+    background: azure;
+    border: 3px solid #73AD21;
+    float: left;
+    margin-left: 5%;
+}
+
+#ListDescription p{
+    font-size : 20px;
+    font-style: italic;
+}
+.editIndividualList{
+    background: beige;
+}
+
+.deleteIndividualList{
+    background: honeydew;
+}
+
+.EmptySpace{
+    width: 10px;
+    display: inline-block;
+}
+
+table {
+    float: left;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+td, th{
+    border-collapse: collapse;
+    border: 1px solid black;
+    align-content: center;
+}
+
+.NameRow{
+    width: 100px;
+    height: 50px;
+    overflow: scroll;
+}
+
+.NoteRow{
+    width: 600px;
+    height: 50px;
+    overflow: scroll;
+}
+
+th{
+    background: gold;
+}
+
+table{
+    width: 850px;
+}
+
+
+
+
+#Header h1{
+    display: inline-block;
+}
+
+#Header button{
+    display: inline-block;
+    background: aqua;
+}
+
+.UsernameButton{
+    border: none;
+    background: aquamarine;
+}
+.DeleteFriend{
+    background: red;
+    color:white;
+}
+.AcceptFriend{
+    background: lightgoldenrodyellow;
+}
+
+.RejectFriend{
+    background: red;
+    color:white;
+}
+
+#FriendsPanel1{
+    float:left;
+    width:350px;
+}
+
+#ExistingFriends{
+    width:350px;
+}
+
+#ExistingFriends th{
+    background: azure;
+}
+
+#FriendsPanel2{
+    position: relative;
+    left:80px;
+    float:left;
+    width: 550px
+}
+
+#PotentialFriends{
+    width:550px;
+}
+
+#FriendsPanel3{
+    position: relative;
+    left: 120px;
+    float:left;
+    width:400px;
+}
+#FriendRequestButton{
+    background: red;
+    color: white;
+    font-size: 20px;
+}
+
+#AllUsersPanel1{
+    float:left;
+    position: relative;
+    width: 400px;
+    left: 100px;
+}
+
+#AllUsersTable{
+    width:400px;
+    left:100px;
+}
+
+#AllUsersTable th{
+    background: aliceblue;
+}
+
+#AllUsersPanel2{
+    position: fixed;
+    margin: 10px;
+    border: 10px;
+    left:700px;
+    background: bisque;
+    top: 300px;
+    font-size: 20px;
+    height: 150px;
+
+}
+
+.DeleteCategory{
+    background: red;
+    color: white;
+}
+
+
+#SettingPanel1{
+    float: left;
+    width: 350px;
+
+}
+
+#SettingPanel2{
+    float:left;
+    position: relative;
+    left:50px;
+    width: 350px;
+
+}
+
+#SettingPanel3{
+    float:left;
+    position: relative;
+    left:100px;
+    width: 500px;
+
+}
+
+.PopUpWindow{
+    border-color: black;
+    background-color: greenyellow;
+    border-style: solid;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    width: 550px;
+    height: 400px;
+}
+.NoteInputBox{
+    height: 100px;
+    width:450px
+}
+
+.FoodNameInputBox{
+    width:400px
+}
+
+.RankInputBox{
+    width:450px
+}
+
+
+.PopUpWindowHeader{
+    text-align: center;
+}
+.ButtonArray{
+    text-align: center;
+}
+.DescriptionInputBox{
+    overflow-wrap: break-word;
+    height: 200px;
+    width:450px
+}
+
+.DescriptionForm, .NoteForm{
+    text-align: center;
+}
+
+.StickerPanel{
+    width: 400px ;
+    height: 550px;
+    position: fixed;
+    top: 550px;
+    left: 950px;
+    background: deepskyblue;
+
+}
+
+.sticker{
+    width:50px;
+    height: 50px;
+}
+
+.freeSticker{
+    width:50px;
+    height: 50px;
+}
+
+.stickerDiv{
+    display: inline-block;
+}

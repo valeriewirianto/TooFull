@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.821a3058.chunk.css",
+    "main.js": "/static/js/main.0f55a40a.chunk.js",
+    "main.js.map": "/static/js/main.0f55a40a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5339dc75.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5339dc75.js.map",
+    "static/js/2.0f2a75ac.chunk.js": "/static/js/2.0f2a75ac.chunk.js",
+    "static/js/2.0f2a75ac.chunk.js.map": "/static/js/2.0f2a75ac.chunk.js.map",
+    "static/js/3.b2ec4a0b.chunk.js": "/static/js/3.b2ec4a0b.chunk.js",
+    "static/js/3.b2ec4a0b.chunk.js.map": "/static/js/3.b2ec4a0b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.821a3058.chunk.css.map": "/static/css/main.821a3058.chunk.css.map",
+    "static/js/2.0f2a75ac.chunk.js.LICENSE.txt": "/static/js/2.0f2a75ac.chunk.js.LICENSE.txt",
+    "static/media/brocoli.ac426a11.png": "/static/media/brocoli.ac426a11.png",
+    "static/media/donut.c293b93a.png": "/static/media/donut.c293b93a.png",
+    "static/media/Login.css": "/static/media/foodplate.61a4663f.jpg",
+    "static/media/mo1.2f9e6a1e.jpg": "/static/media/mo1.2f9e6a1e.jpg",
+    "static/media/mo2.acc376bd.jpg": "/static/media/mo2.acc376bd.jpg",
+    "static/media/pie.ad054693.png": "/static/media/pie.ad054693.png",
+    "static/media/watermelon.ed00cd9b.png": "/static/media/watermelon.ed00cd9b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5339dc75.js",
+    "static/js/2.0f2a75ac.chunk.js",
+    "static/css/main.821a3058.chunk.css",
+    "static/js/main.0f55a40a.chunk.js"
+  ]
+}

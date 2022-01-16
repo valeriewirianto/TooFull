@@ -1,0 +1,106 @@
+#foodListSpan{
+    float:left;
+    width: 50%;
+}
+
+#popularitySpan{
+    float:left;
+    width: 50%;
+}
+
+#grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 10%;
+    grid-row-gap: 50%;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listButtons{
+    border-radius: 10px;
+    background-color: bisque;
+    width: 100%;
+    padding: 15px 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.listButtons:hover{
+    background-color: rgb(253, 218, 176);
+}
+
+.topButtons{
+    margin-right: 5%;
+}
+
+.popup{
+    border-color: black;
+    background-color: rgb(225, 255, 218);
+    border-style: solid;
+    position: fixed;
+    top: 25%;
+    left: 25%;
+    width: 45%;
+    height: 40%;
+}
+
+.form{
+    margin-top: 3%;
+    margin-left: 10%;
+    text-align: left;
+}
+
+.closeX{
+    margin-left: 95%;
+    font-size:x-large;
+    cursor: pointer;
+}
+
+.popupButton{
+    margin-left: 40%;
+}
+
+.popupTextbox{
+    margin-left: 3%;
+}
+
+.textDiv{
+    float:left
+}
+
+.labelDiv{
+    float: left;
+    line-height: 140%;
+}
+
+.myListTitle{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 130%;
+    margin-left: 30%;
+}
+
+.notEnoughListsButton{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #93e0ff;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor:pointer;
+    margin-left: 15%;
+}
+
+.notEnoughListsButton:hover{
+    background-color: #a6e3fc;
+}
+
+
+
+.prompt{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 60%;
+}
+
+

@@ -1,0 +1,142 @@
+.header{
+    margin-top: 20px;
+}
+
+.profileInfoList{
+    float: left;
+}
+
+.searchProfile{
+    background-color: lightblue;
+    border-color: transparent;
+    border-style: solid;
+    border-radius: 30px;
+    height: 30px;
+    width: 300px;
+    margin-left: 10px;
+}
+
+.avatar{
+    height: 150px;
+    width: 150px;
+	border-radius: 50%;
+	border: 3px solid white;
+	position: absolute;
+	top: 180px;
+	left: 30px;
+}
+
+.profileSidebar{
+    margin-top: 150px;
+    margin-left: 50px;
+    float: left;
+}
+
+.detailInput{
+    font-size: small;
+    height: 40px;
+    width: 200px;
+}
+.profileDetailInput{
+    float: left;
+    border-color: darkgray;
+    border-style: solid;
+    border-radius: 8px;
+}
+
+.profileDetailsubmitButton{
+    width: 50%;
+    background-color:cyan;
+    border-color: transparent;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.profileDetailsubmitButton:hover{
+    background-color:darkcyan;
+}
+
+.detail {
+    list-style: none;
+    font-size: small;
+    height: 40px;
+    width: 200px;
+}
+
+.detailName{
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 3px;
+}
+
+.detailContent{
+    float: left;
+}
+
+.bioName{
+    float: left;
+    font-weight: bold;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+
+.bioContent{
+    float: left;
+    margin-top: 0px;
+}
+
+.editProfile{
+    margin-top: 500px;
+}
+
+.editButton{
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.editProfile :hover{
+    text-decoration: underline;
+}
+
+.createPost{
+    padding-top: 20%;
+}
+
+.postButton{
+    float: right;
+    background-color: transparent;
+}
+
+.momentsList{
+    list-style-type: none;
+    margin-top: 0px;
+    padding-left: 0px;
+}
+
+.momentsItem{
+    padding: 0px;
+}
+
+.foodMoments{
+    float: left;
+    margin-top: 50px;
+    margin-left: 150px;
+    text-align: left;
+}
+
+.moment{
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: blanchedalmond;
+}
+
+.caption{
+    margin-top: 0px;
+}
+
+.momentPicture{
+    width: 320px;
+    height: 180px;
+}

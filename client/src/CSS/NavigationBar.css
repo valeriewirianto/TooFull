@@ -1,0 +1,24 @@
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.topButtons {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #bdecff;
+    border: none;
+    color: black;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    cursor:pointer;
+}
+
+.topButtons:hover {
+    background-color: #a8e6ff
+  }
+
+.navigationPanel{
+    justify-items: center;
+    background-color:#bdecff;
+    overflow: hidden;
+}
